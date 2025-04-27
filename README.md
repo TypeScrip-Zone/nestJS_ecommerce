@@ -1,5 +1,8 @@
 # NestJS E-Commerce Backend
 
+
+
+
 ## Description
 
 A modern e-commerce backend API built with NestJS, GraphQL, Apollo Server, and Prisma. This project provides a complete solution for building and managing an e-commerce platform with features including user authentication, product management, shopping cart, order processing, and more.
