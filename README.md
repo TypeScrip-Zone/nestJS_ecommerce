@@ -1,8 +1,5 @@
 # NestJS E-Commerce Backend
 
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-
 ## Description
 
 A modern e-commerce backend API built with NestJS, GraphQL, Apollo Server, and Prisma. This project provides a complete solution for building and managing an e-commerce platform with features including user authentication, product management, shopping cart, order processing, and more.
